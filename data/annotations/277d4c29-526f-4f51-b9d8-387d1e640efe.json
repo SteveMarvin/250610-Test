@@ -30,6 +30,35 @@
       ],
       "tags": [],
       "uuid": "4f622559-a145-4f29-ad80-00e587e27a5f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "text": "This is "
+        },
+        {
+          "text": "emphasis",
+          "italic": true
+        },
+        {
+          "text": "."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "This is actually a break."
+        }
+      ],
+      "tags": [],
+      "uuid": "701e6fc4-c823-4d36-9fae-68da9b80553e"
     }
   ],
   "set": "Default",
