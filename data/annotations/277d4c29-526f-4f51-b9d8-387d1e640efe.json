@@ -1,5 +1,37 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is "
+            },
+            {
+              "text": "emphasis",
+              "italic": true
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is actually a break."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4f622559-a145-4f29-ad80-00e587e27a5f"
+    }
+  ],
   "set": "Default",
   "event_id": "0cb2858c-df63-4196-a1c7-158943ef97f0",
   "source_id": "147a6a96-4a2a-4d16-8cde-50f8bf44bacd"
