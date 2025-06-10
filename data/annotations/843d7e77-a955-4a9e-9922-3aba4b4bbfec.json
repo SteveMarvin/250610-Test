@@ -1,34 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 1,
-      "end_time": 600,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This is a "
-            },
-            {
-              "text": "break ",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Second line "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "79ffbe5c-6f48-48a0-9172-1e3bbfd6311b"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "dd0b67c1-e759-449f-9ab3-4bb352f0261c",
   "source_id": "8e8e89b4-b152-49f1-be74-6d124b883a73"
