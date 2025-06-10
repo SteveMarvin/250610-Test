@@ -5,14 +5,14 @@
       "end_time": 600,
       "annotation": [
         {
-          "text": "This is a "
-        },
-        {
           "type": "paragraph",
           "children": [
             {
-              "text": "break ",
-              "italic": true
+              "text": "This is a "
+            },
+            {
+              "italic": true,
+              "text": "break "
             }
           ]
         },
