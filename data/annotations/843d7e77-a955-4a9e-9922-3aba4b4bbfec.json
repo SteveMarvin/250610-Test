@@ -8,7 +8,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "This is a break <p> Did it break?"
+              "text": "This is a break <p> Did it <i>break</i>?"
             }
           ]
         }
